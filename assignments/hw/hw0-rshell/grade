@@ -1,1 +1,15 @@
-/ 100
+60 / 100
+
+-5: No command with larger than 10 parameters
+-5: No command run from within the current directory
+-5: No example of the effect of whitespace on parsing
+
+-5: No example of the effect of whitespace immediately surrounding operators
+
+-5: Exit does not have the expected behavior
+-5: No example of exit with parameters
+-5: No example of exit as a parameter to another command
+-5: No example of exit in a chain of commands
+
+-5: Comments inside of a command do not work as expected
+-5: Comments immediately adjacent to something do not work as expected
