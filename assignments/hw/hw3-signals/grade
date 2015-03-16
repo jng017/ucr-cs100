@@ -1,6 +1,6 @@
-55 / 100
+70 / 100
 
--25: memory leak found in valgrind
+-10: memory leak found in valgrind
 
 PATH variable: 20/40
     [0/10] Execute a program in the working directory.
